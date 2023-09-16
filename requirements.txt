@@ -1,0 +1,6 @@
+xlwt
+xlrd
+xlutils
+numpy
+face_recognition
+opencv-python
